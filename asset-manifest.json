@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55c85ee6.chunk.css",
+    "main.js": "/static/js/main.8af96d03.chunk.js",
+    "main.js.map": "/static/js/main.8af96d03.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.1d98b63e.js",
+    "runtime~main.js.map": "/static/js/runtime~main.1d98b63e.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.2660207d.chunk.js": "/static/js/2.2660207d.chunk.js",
+    "static/js/2.2660207d.chunk.js.map": "/static/js/2.2660207d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.27a01ba899aed115269813c5a7b2e771.js": "/precache-manifest.27a01ba899aed115269813c5a7b2e771.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.55c85ee6.chunk.css.map": "/static/css/main.55c85ee6.chunk.css.map",
+    "static/media/arduino.jpg": "/static/media/arduino.53ac3e1e.jpg",
+    "static/media/e.png": "/static/media/e.d3ac3134.png",
+    "static/media/fl.png": "/static/media/fl.0b382907.png",
+    "static/media/img1.png": "/static/media/img1.906146a2.png",
+    "static/media/ptc.png": "/static/media/ptc.41e6286e.png",
+    "static/media/resale.png": "/static/media/resale.b64de7cb.png",
+    "static/media/sc.png": "/static/media/sc.ff334ee5.png"
+  }
+}
